@@ -4,7 +4,9 @@ import javax.swing.*;
 @SuppressWarnings("serial")
 public class AppletMain extends JApplet {
 
-    /** init() to setup the GUI components */
+    /**
+     * init() to setup the GUI components
+     */
     @Override
     public void init() {
         // Run GUI codes in the Event-Dispatching thread for thread safety
