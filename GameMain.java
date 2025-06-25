@@ -9,7 +9,7 @@ public class GameMain extends JPanel {
     public static final Color COLOR_BG = Color.WHITE;
     public static final Color COLOR_BG_STATUS = new Color(216, 216, 216);
     public static final Font FONT_STATUS = new Font("OCR A Extended", Font.PLAIN, 14);
-//a
+
     private Board board;
     private State currentState;
     private Seed currentPlayer;
